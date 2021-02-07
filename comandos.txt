@@ -7,3 +7,14 @@ git commit -m "Configurando Mongoose "
 //Cria o repositorio no GIT e vincula com o link
 git remote add origin https://github.com/silasrsilveira/nodejs_mongodb.git
 git push -u origin master
+
+//Comando mongodb 
+
+$ show databases;
+$ show tables;
+$ use aprendendo; ("aprendendo é o nome do DB)
+$ db.usuarios.find();
+
+
+
+ 
