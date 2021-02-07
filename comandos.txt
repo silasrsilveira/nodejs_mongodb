@@ -1,0 +1,9 @@
+$ Adicionando arquivo em um novo repositorio!!
+
+git init  
+git status
+git add .
+git commit -m "Configurando Mongoose "
+//Cria o repositorio no GIT e vincula com o link
+git remote add origin https://github.com/silasrsilveira/nodejs_mongodb.git
+git push -u origin master
